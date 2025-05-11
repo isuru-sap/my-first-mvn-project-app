@@ -16,6 +16,8 @@ public class AppTest {
     public void shouldAnswerWithTrue() {
         assertTrue(true);
         println("Hello World");
+        println("Hello World");
+
     }
 }
 
